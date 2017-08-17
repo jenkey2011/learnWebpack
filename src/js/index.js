@@ -1,2 +1,4 @@
 import('./foo');
 function go(){
+	
+}
