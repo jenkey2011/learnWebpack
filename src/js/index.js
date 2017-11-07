@@ -1,5 +1,0 @@
-import('./foo');
-
-function go(){
-
-}
